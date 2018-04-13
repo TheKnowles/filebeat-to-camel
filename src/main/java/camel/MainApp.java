@@ -1,4 +1,4 @@
-package test;
+package camel;
 
 import org.apache.camel.main.Main;
 import org.apache.camel.component.jms.JmsComponent;

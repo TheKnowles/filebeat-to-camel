@@ -1,4 +1,4 @@
-package test;
+package camel;
 
 import org.apache.camel.Message;
 import org.apache.camel.builder.RouteBuilder;
